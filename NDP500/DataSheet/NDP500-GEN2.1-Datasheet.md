@@ -84,70 +84,63 @@ table th {
 ## 2. Desktop Digital Podium 
 
 <table>
-    <thead>
-        <tr class="thead-tr">
-            <td class="tbody-td"> Item </td>
-            <td class="tbody-td" colspan="2"> Specification </td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="tbody-tr">
-            <td rowspan="12"> Display Screen </td>
-            <td class="tbody-td"> Item </td>
-            <td class="tbody-td"> Specification </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Panel Type </td>
-            <td class="tbody-td"> IPS (TFT-LCD) </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Effective Screen Size </td>
-            <td class="tbody-td"> 23.8 inch </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Resolution </td>
-            <td class="tbody-td"> 1920(H) x 1080 (V) </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Colors </td>
-            <td class="tbody-td"> 16.7M </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Brightness </td>
-            <td class="tbody-td"> 300 cd/m² </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Contrast Ratio </td>
-            <td class="tbody-td"> 1000:1 </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Surface </td>
-            <td class="tbody-td"> 3mm Hardened Anti-Reflection Safety Glass (7 H); <br />AG+AF<br />Optical Bonding
-                technology </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Viewing Angles </td>
-            <td class="tbody-td"> 178° (H), 178° (V) </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Touch </td>
-            <td class="tbody-td"> Capacitive, 10-point multi-touch, 4096x4096 resolution, Windows 7/8/10/11 compatible
-            </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Handwriting </td>
-            <td class="tbody-td"> Active capacitive pen, 4096 pressure levels, ±0.25mm accuracy, < 5mm detection height,
-                    Windows Ink, Windows 7/8/10/11 compatible </td>
-        </tr>
-        <tr class="tbody-tr">
-            <td class="tbody-td"> Control Panel </td>
-            <td class="tbody-td"> 10.1-inch Touch Control Panel for acessing NDP500 functions. <br />RAM: 2G<br />ROM:
-                16G<br />CPU:
-                Quad-cord,
-                1.6GHz<br />NFC: Supported </td>
-            <td class="tbody-td">
-        </tr>
-    <tbody>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> </td>
+        <td class="tbody-td"> Item </td>
+        <td class="tbody-td"> Specification </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td rowspan="12"> Display Screen </td>
+        <td class="tbody-td"> Panel Type </td>
+        <td class="tbody-td"> IPS (TFT-LCD) </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Effective Screen Size </td>
+        <td class="tbody-td"> 23.8 inch </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Resolution </td>
+        <td class="tbody-td"> 1920(H) x 1080 (V) </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Colors </td>
+        <td class="tbody-td"> 16.7M </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Brightness </td>
+        <td class="tbody-td"> 300 cd/m² </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Contrast Ratio </td>
+        <td class="tbody-td"> 1000:1 </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Surface </td>
+        <td class="tbody-td"> 3mm Hardened Anti-Reflection Safety Glass (7 H); <br />AG+AF<br />Optical Bonding
+            technology </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Viewing Angles </td>
+        <td class="tbody-td"> 178° (H), 178° (V) </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Touch </td>
+        <td class="tbody-td"> Capacitive, 10-point multi-touch, 4096x4096 resolution, Windows 7/8/10/11 compatible
+        </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Handwriting </td>
+        <td class="tbody-td"> Active capacitive pen, 4096 pressure levels, ±0.25mm accuracy, < 5mm detection height,
+                Windows Ink, Windows 7/8/10/11 compatible </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td"> Control Panel </td>
+        <td class="tbody-td"> 10.1-inch Touch Control Panel for acessing NDP500 functions. <br />RAM: 2G<br />ROM:
+            16G<br />CPU:
+            Quad-cord,
+            1.6GHz<br />NFC: Supported </td>
+        <td class="tbody-td">
+    </tr>
 </table>
 
 
