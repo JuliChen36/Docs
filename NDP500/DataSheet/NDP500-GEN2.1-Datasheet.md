@@ -91,7 +91,7 @@ table th {
         <td class="tbody-td"> Specification </td>
     </tr>
     <tr class="tbody-tr">
-        <td  class="tbody-td" rowspan="12"> Display Screen </td>
+        <td  class="tbody-td" rowspan="11"> Display Screen </td>
         <td class="tbody-td"> Panel Type </td>
         <td class="tbody-td"> IPS (TFT-LCD) </td>
     </tr>
@@ -141,9 +141,8 @@ table th {
             Quad-cord,
             1.6GHz<br />NFC: Supported </td>
     </tr>
-
     <tr class="tbody-tr">
-        <td  class="tbody-td" rowspan="10">Interface</td>
+        <td rowspan="10">Interface</td>
         <td class="tbody-td">LAN switch</td>
         <td class="tbody-td">10M / 100M / 1000M RJ45 *2</td>
     </tr>
