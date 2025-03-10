@@ -149,17 +149,16 @@ table th {
 
 <table>
     <tr class="tbody-tr">
-        <td> </td>
+        <td class="tbody-td"> </td>
         <td class="tbody-td">Category</td>
         <td class="tbody-td">Interface Description</td>
     </tr>
     <tr class="tbody-tr">
-        <td rowspan="10">Interface</td>
+        <td  class="tbody-td" rowspan="10">Interface</td>
         <td class="tbody-td">LAN switch</td>
         <td class="tbody-td">10M / 100M / 1000M RJ45 *2</td>
     </tr>
     <tr class="tbody-tr">
-
         <td class="tbody-td">Audio</td>
         <td class="tbody-td">3.5mm audio in *1; <br />3.5mm audio out *1</td>
     </tr>
