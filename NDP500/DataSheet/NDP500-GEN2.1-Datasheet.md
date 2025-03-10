@@ -139,7 +139,6 @@ table th {
             16G<br />CPU:
             Quad-cord,
             1.6GHz<br />NFC: Supported </td>
-        <td class="tbody-td">
     </tr>
 </table>
 
