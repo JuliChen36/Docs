@@ -167,7 +167,7 @@ table th {
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td">HDMI Port</td>
-        <td class="tbody-td">HDMI 2.0 in x5;<br />HDMI 2.0 out x1</td>
+        <td class="tbody-td">HDMI 2.0 in x2;<br />HDMI 2.0 out x2</td>
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td">Touch USB</td>

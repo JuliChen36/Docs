@@ -91,38 +91,14 @@ table th {
     </tr>
     <!-- Display Screen -->
     <tr class="tbody-tr">
-        <td class="tbody-td" rowspan="11"> Display Screen </td>
-        <td class="tbody-td"> Panel Type </td>
-        <td class="tbody-td"> IPS (TFT-LCD) </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Effective Screen Size </td>
-        <td class="tbody-td"> 23.8 inch </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Resolution </td>
-        <td class="tbody-td"> 1920(H) x 1080 (V) </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Colors </td>
-        <td class="tbody-td"> 16.7M </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Brightness </td>
-        <td class="tbody-td"> 300 cd/m² </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Contrast Ratio </td>
-        <td class="tbody-td"> 1000:1 </td>
+        <td class="tbody-td" rowspan="5"> Display Screen </td>
+        <td class="tbody-td"> Display </td>
+        <td class="tbody-td"> 23.8" IPS (TFT-LCD); 1920×1080; 16.7M colors; 300 cd/m² brightness; 1000:1 contrast; 178° (H/V) </td>
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td"> Surface </td>
         <td class="tbody-td"> 3mm Hardened Anti-Reflection Safety Glass (7 H); <br />AG+AF<br />Optical Bonding
             technology </td>
-    </tr>
-    <tr class="tbody-tr">
-        <td class="tbody-td"> Viewing Angles </td>
-        <td class="tbody-td"> 178° (H), 178° (V) </td>
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td"> Touch </td>
@@ -136,14 +112,12 @@ table th {
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td"> Control Panel </td>
-        <td class="tbody-td"> 10.1-inch Touch Control Panel for accessing NDP500 functions. <br />RAM: 2GB<br />ROM:
-            16GB<br />CPU:
-            Quad-core,
-            1.6GHz<br />NFC: Supported </td>
+        <td class="tbody-td"> 10.1" Touch Panel for NDP500 control; 2GB RAM, 16GB ROM, Quad-core 1.6GHz CPU, NFC
+</td>
     </tr>
     <!-- Interface -->
     <tr class="tbody-tr">
-        <td class="tbody-td" rowspan="6">Interface</td>
+        <td class="tbody-td" rowspan="7">Interface</td>
         <td class="tbody-td">LAN Switch</td>
         <td class="tbody-td">10M / 100M / 1000M RJ45 x2</td>
     </tr>
@@ -158,21 +132,22 @@ table th {
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td">HDMI Port</td>
-        <td class="tbody-td">HDMI 2.0 in x2;<br />HDMI 2.0 out x1</td>
+        <td class="tbody-td">HDMI 1.4 in x2;<br />HDMI 2.0 out x3</td>
     </tr>
     <tr class="tbody-tr">
-        <td class="tbody-td">Touch USB</td>
-        <td class="tbody-td">Touch USB x2</td>
+        <td class="tbody-td"> AV Switching Capability </td>
+        <td class="tbody-td"> Built-in HDMI seamless matrix switcher, supports ≤0.5s channel switching with no screen blackout </td>
+    </tr>
+    <tr class="tbody-tr">
+        <td class="tbody-td">USB</td>
+        <td class="tbody-td">host usb(type B)*1 <br /> device usb(type A)*2</td>
     </tr>
     <tr class="tbody-tr">
         <td class="tbody-td">Communication interface</td>
-        <td class="tbody-td">RS232 x2; <br />IR-In x1; <br />IR-Out x1</td>
+        <td class="tbody-td">RS232 x1; <br /> RS485 x1; <br />IR-In x1; <br />IR-Out x1</td>
     </tr>
 </table>
-<div style="page-break-after: always; break-after: page;"></div>
 
-<!-- break -->
-<!-- 这里增加一个跨页 -->
 
 <table class="tbw">
 <tr class="tbody-tr">
